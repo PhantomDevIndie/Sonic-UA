@@ -1,7 +1,7 @@
 # SonicUA
 
-Sonic: Unreal Adventures is a fan-game and the developer has no relation with sega whatsoever.
+Sonic: Unreal Adventures is a fan-game and the developer has no relation with ©SEGA whatsoever.
 
-Idk what to type here 
+* *Section for yapping about game* *
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5.4
