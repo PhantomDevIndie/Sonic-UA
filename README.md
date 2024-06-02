@@ -20,7 +20,7 @@ Sonic: Unreal Adventures is just a fan-game made from the ground up by [@Phantom
 Installation for this game is as easy as to download the zip and extracting it.
 ## **TO-DO**
 
-- [ ] Boost doesn't let you stop (W.I.P.)
+- [X] Boost doesn't let you stop (Just gotta find the right speed)
 
 - [ ] Add homing attack
 
